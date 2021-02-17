@@ -1,0 +1,35 @@
+body {
+  background-color: #EDA9CF;
+  color: #333; */
+}
+
+.wrapper {
+  height: 100vh;
+}
+
+.box {
+  background-color: white;
+  position: relative;
+  
+}
+
+.fa-quote-left {
+  position: absolute;
+  opacity: 0.5;
+  top: 13px;
+  left: 10px;
+  
+}
+
+.quote-text {
+  font-size: 1.875rem;
+  font-weight: bold;
+  padding: 20px 0 0 30px;
+  
+}
+
+.author-text {
+  font-size: 1.35rem;
+  font-weight: bold
+  
+}
